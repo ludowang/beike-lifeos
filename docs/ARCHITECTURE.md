@@ -1,6 +1,8 @@
 # Architecture
 
-Beike LifeOS separates conversation, personal context, and durable state.
+Beike LifeOS is a lightweight personal agent architecture, not a new all-in-one app. It separates conversation, personal context, and durable state so each layer can be replaced independently.
+
+The central claim is simple: useful personalization does not require a custom-trained model or a proprietary memory platform. A capable general agent can become deeply personal when it is connected to well-structured, searchable files and follows conservative read/write rules.
 
 ```mermaid
 flowchart TB
