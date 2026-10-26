@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640" role="img" aria-labelledby="title desc">
+  <title id="title">真实案例：零散表达合并为同一天的日记</title>
+  <desc id="desc">脱敏后的真实对话卡片，展示自然输入、澄清和飞书日记回读。</desc>
+  <rect width="1200" height="640" rx="28" fill="#F4F1EA"/>
+  <text x="64" y="70" font-family="Inter, Microsoft YaHei, sans-serif" font-size="27" font-weight="600" fill="#1F352F">01 · Diary merge</text>
+  <text x="64" y="106" font-family="Inter, Microsoft YaHei, sans-serif" font-size="18" fill="#68736F">真实对话摘录 · 已脱敏重排</text>
+  <rect x="64" y="142" width="724" height="112" rx="18" fill="#FFFFFF"/>
+  <text x="90" y="181" font-family="Inter, Microsoft YaHei, sans-serif" font-size="17" font-weight="600" fill="#1E2724">Luda</text>
+  <text x="90" y="215" font-family="Inter, Microsoft YaHei, sans-serif" font-size="20" fill="#25332E">你负责我的日记、心情、任务规划和项目安排。</text>
+  <rect x="278" y="282" width="858" height="126" rx="18" fill="#DDE9E4"/>
+  <text x="304" y="321" font-family="Inter, Microsoft YaHei, sans-serif" font-size="17" font-weight="600" fill="#1F5748">Beike</text>
+  <text x="304" y="355" font-family="Inter, Microsoft YaHei, sans-serif" font-size="20" fill="#25332E">今天只写事实，还是要补充当时的感受？</text>
+  <text x="304" y="385" font-family="Inter, Microsoft YaHei, sans-serif" font-size="17" fill="#5E6D67">你说，我按你说的记，不自己编。</text>
+  <rect x="64" y="436" width="1072" height="134" rx="18" fill="#263B34"/>
+  <text x="92" y="478" font-family="Inter, Microsoft YaHei, sans-serif" font-size="17" font-weight="600" fill="#B8D7CA">写入并回读</text>
+  <text x="92" y="516" font-family="Inter, Microsoft YaHei, sans-serif" font-size="22" fill="#FFFFFF">《岛上的天气》→ 2026-10-26 → 今天发生的事 / 今天的天气</text>
+  <text x="92" y="550" font-family="Inter, Microsoft YaHei, sans-serif" font-size="17" fill="#D8E4DF">事实、用户原话和暂时观察分开保存；没有生成重复日记。</text>
+  <text x="64" y="612" font-family="Inter, Microsoft YaHei, sans-serif" font-size="15" fill="#7A837F">Private employment and emotional details removed.</text>
+</svg>

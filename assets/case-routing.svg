@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640" role="img" aria-labelledby="title desc">
+  <title id="title">真实案例：从自然表达路由到项目和习惯</title>
+  <desc id="desc">脱敏后的真实案例，展示搜索已有项目与习惯后进行更新。</desc>
+  <rect width="1200" height="640" rx="28" fill="#F4F1EA"/>
+  <text x="64" y="70" font-family="Inter, Microsoft YaHei, sans-serif" font-size="27" font-weight="600" fill="#1F352F">03 · Route to projects and habits</text>
+  <text x="64" y="106" font-family="Inter, Microsoft YaHei, sans-serif" font-size="18" fill="#68736F">真实对话摘录 · 已脱敏重排</text>
+  <rect x="64" y="142" width="1072" height="104" rx="18" fill="#FFFFFF"/>
+  <text x="90" y="182" font-family="Inter, Microsoft YaHei, sans-serif" font-size="17" font-weight="600" fill="#1E2724">Luda</text>
+  <text x="90" y="216" font-family="Inter, Microsoft YaHei, sans-serif" font-size="20" fill="#25332E">重新启动形象管理；运动沿用原来的，饮食要形成持续习惯。</text>
+  <rect x="64" y="284" width="330" height="190" rx="18" fill="#E8E1D2"/>
+  <text x="90" y="324" font-family="Inter, Microsoft YaHei, sans-serif" font-size="17" font-weight="600" fill="#6A5530">搜索已有记录</text>
+  <text x="90" y="366" font-family="Inter, Microsoft YaHei, sans-serif" font-size="18" fill="#352F25">项目：形象管理</text>
+  <text x="90" y="402" font-family="Inter, Microsoft YaHei, sans-serif" font-size="18" fill="#352F25">习惯：运动</text>
+  <text x="90" y="438" font-family="Inter, Microsoft YaHei, sans-serif" font-size="18" fill="#352F25">习惯：室内有氧</text>
+  <path d="M432 379 H520" stroke="#78958A" stroke-width="4" stroke-linecap="round"/>
+  <path d="M508 365 L526 379 L508 393" fill="none" stroke="#78958A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="558" y="284" width="578" height="190" rx="18" fill="#DDE9E4"/>
+  <text x="584" y="324" font-family="Inter, Microsoft YaHei, sans-serif" font-size="17" font-weight="600" fill="#1F5748">真实写入结果</text>
+  <text x="584" y="366" font-family="Inter, Microsoft YaHei, sans-serif" font-size="18" fill="#25332E">✓ 原项目：搁置 → 进行中</text>
+  <text x="584" y="402" font-family="Inter, Microsoft YaHei, sans-serif" font-size="18" fill="#25332E">✓ 复用并更新两个运动习惯</text>
+  <text x="584" y="438" font-family="Inter, Microsoft YaHei, sans-serif" font-size="18" fill="#25332E">＋ 只新建缺失的“吃得有结构”</text>
+  <rect x="64" y="516" width="1072" height="64" rx="16" fill="#263B34"/>
+  <text x="92" y="556" font-family="Inter, Microsoft YaHei, sans-serif" font-size="20" fill="#FFFFFF">Search before write：复用旧记录，避免平行项目和重复习惯。</text>
+  <text x="64" y="612" font-family="Inter, Microsoft YaHei, sans-serif" font-size="15" fill="#7A837F">Exact health values and private commitments removed.</text>
+</svg>

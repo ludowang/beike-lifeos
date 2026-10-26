@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640" role="img" aria-labelledby="title desc">
+  <title id="title">真实案例：用过去的文件理解今天</title>
+  <desc id="desc">脱敏后的真实对话卡片，展示从过去日记召回相同行为模式。</desc>
+  <rect width="1200" height="640" rx="28" fill="#F4F1EA"/>
+  <text x="64" y="70" font-family="Inter, Microsoft YaHei, sans-serif" font-size="27" font-weight="600" fill="#1F352F">02 · Personal memory retrieval</text>
+  <text x="64" y="106" font-family="Inter, Microsoft YaHei, sans-serif" font-size="18" fill="#68736F">真实对话摘录 · 已脱敏重排</text>
+  <rect x="64" y="142" width="1072" height="124" rx="18" fill="#FFFFFF"/>
+  <text x="90" y="182" font-family="Inter, Microsoft YaHei, sans-serif" font-size="17" font-weight="600" fill="#1E2724">Luda</text>
+  <text x="90" y="216" font-family="Inter, Microsoft YaHei, sans-serif" font-size="20" fill="#25332E">最近每天缺少主动安排，空下来的时间容易被默认行为接管。</text>
+  <rect x="64" y="300" width="330" height="176" rx="18" fill="#E8E1D2"/>
+  <text x="90" y="340" font-family="Inter, Microsoft YaHei, sans-serif" font-size="17" font-weight="600" fill="#6A5530">搜索到的旧记录</text>
+  <text x="90" y="382" font-family="Inter, Microsoft YaHei, sans-serif" font-size="20" fill="#352F25">2026-09-25</text>
+  <text x="90" y="420" font-family="Inter, Microsoft YaHei, sans-serif" font-size="17" fill="#564E40">没有确定的小事</text>
+  <text x="90" y="450" font-family="Inter, Microsoft YaHei, sans-serif" font-size="17" fill="#564E40">→ 空档 → 默认行为</text>
+  <path d="M432 388 H520" stroke="#78958A" stroke-width="4" stroke-linecap="round"/>
+  <path d="M508 374 L526 388 L508 402" fill="none" stroke="#78958A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="558" y="300" width="578" height="176" rx="18" fill="#DDE9E4"/>
+  <text x="584" y="340" font-family="Inter, Microsoft YaHei, sans-serif" font-size="17" font-weight="600" fill="#1F5748">Beike</text>
+  <text x="584" y="382" font-family="Inter, Microsoft YaHei, sans-serif" font-size="20" fill="#25332E">这和 9 月 25 日是同一条链。</text>
+  <text x="584" y="420" font-family="Inter, Microsoft YaHei, sans-serif" font-size="17" fill="#4F625B">问题不只是“主动性差”，而是只有外部事项</text>
+  <text x="584" y="450" font-family="Inter, Microsoft YaHei, sans-serif" font-size="17" fill="#4F625B">有结构，主动事项还没有结构。</text>
+  <rect x="64" y="516" width="1072" height="64" rx="16" fill="#263B34"/>
+  <text x="92" y="556" font-family="Inter, Microsoft YaHei, sans-serif" font-size="20" fill="#FFFFFF">Personalization = 找回你的历史模式，而不是生成一段通用建议。</text>
+  <text x="64" y="612" font-family="Inter, Microsoft YaHei, sans-serif" font-size="15" fill="#7A837F">Unrelated private context removed.</text>
+</svg>
